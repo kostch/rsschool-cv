@@ -12,7 +12,7 @@ I like to solve various problems that make me think.
 I chose the path - I started programming in my free time, because I like doing it, it makes my head work, and it's cool!  
 In addition to programming, I like to spend time actively: cycling, skating, skiing.  
 
-##Education
+## Education
 **Moscow Aviation Institute**, 2016-2020  
 Speciality: Automation of technological processes and production  
 Academic degree: Bachelor  
