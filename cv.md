@@ -7,7 +7,7 @@
 * **GitHub:** [kostch](https://github.com/kostch)
 
 ## About Me
-I am 24 years old, and I decided to change my life by connecting it with programming! :smile:  
+I am 24 years old, and I decided to change my life by connecting it with programming! 😄  
 I like to solve various problems that make me think.  
 I chose the path - I started programming in my free time, because I like doing it, it makes my head work, and it's cool!  
 In addition to programming, I like to spend time actively: cycling, skating, skiing.  
