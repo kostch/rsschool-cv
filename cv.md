@@ -44,4 +44,4 @@ Code example:
 Courses:
 -
 * **RS Schools**, Course: **«JavaScript/Front-end. Stage 0»** ([Certificate](https://app.rs.school/certificate/ro5saedz))
-* **Perm State University**, Course: «Frontend. Basic course» ([Certificate](https://drive.google.com/file/d/1nKt1LZ19z6jJgrQIKaZwR53pmDBDuxNt/view))
+* **Perm State University**, Course: **«Frontend. Basic course»** ([Certificate](https://drive.google.com/file/d/1nKt1LZ19z6jJgrQIKaZwR53pmDBDuxNt/view))
