@@ -1,0 +1,1 @@
+[Link to my cv.md](https://kostch.github.io/rsschool-cv/cv)
