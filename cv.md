@@ -5,6 +5,7 @@
 * **TG:** [@wabadaba](https://t.me/wabadaba)
 * **Email:** [kos.tch@yandex.ru](mailto:kos.tch@yandex.ru)
 * **GitHub:** [kostch](https://github.com/kostch)
+* **Discord:** kostch#9527
 
 ## About Me
 I am 24 years old, and I decided to change my life by connecting it with programming! 😄  
@@ -26,7 +27,13 @@ Skills
 * **GitHub**
 * **Vue.js** (v.2, v.3, Vuex, Vue Router)
 
-Code example:
+Experience
+-
+**From RS School Stage 0:**  
+* [Portfolio](https://kostch.github.io/training/portfolio/)  
+* [Random jokes](https://rolling-scopes-school.github.io/kostch-JSFEPRESCHOOL/random-jokes/)
+
+Code example
 -
 **Fake Binary KATA from CODEWARS:** Given a string of digits, you should replace any digit below 5 with '0' and any digit 5 and above with '1'. Return the resulting string.
 
@@ -41,12 +48,12 @@ Code example:
            } return outputStr
          }
 
-Courses:
+Courses
 -
 * **RS Schools**, Course: **«JavaScript/Front-end. Stage 0»** ([Certificate](https://app.rs.school/certificate/ro5saedz))
 * **Perm State University**, Course: **«Frontend. Basic course»** ([Certificate](https://drive.google.com/file/d/1nKt1LZ19z6jJgrQIKaZwR53pmDBDuxNt/view))
 
-Languages:
+Languages
 -
 **Russian** - Native  
 **English** - Elementary/Pre-Intermediate
